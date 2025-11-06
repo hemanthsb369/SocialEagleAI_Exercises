@@ -1,0 +1,2 @@
+# SocialEagleAI_Exercises
+Exercises
